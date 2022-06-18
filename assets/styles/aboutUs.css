@@ -1,0 +1,10 @@
+.page-banner {
+    border: 1px solid #0D3266;
+    background-color: #0D3266;
+    padding: 200px;
+}
+
+h1 {
+    margin: 50px;
+    text-align: center;
+}
